@@ -1,5 +1,4 @@
- {  
-      "states":[  
+[  
           {  
             "state":"Andhra Pradesh",
             "districts":[  
@@ -898,4 +897,3 @@
             ]
           }
       ]
-    }
